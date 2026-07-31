@@ -2,7 +2,6 @@
 
 **Building solutions across domains.**
 
-<br>
 
 ---
 
