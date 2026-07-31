@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Yang
 
-<!--
-**YSY42/YSY42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
+- 3 years in corporate ops (Risk & Assurance / Supply & Logistics / IT) at Las Bambas, supporting controls and process enhancements
+- Building the technical foundation for that: OO software design, systems architecture, and data modelling at University of Galway
+- Currently building systems where risk logic and data transparency are core to the workflow — see **[ProcureGate](https://github.com/YSY42/ProcureGate)**
 
-Here are some ideas to get you started:
+**Tech stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Tools |
+|---|---|
+| Languages | Python, Java, Swift, JavaScript, TypeScript, SQL |
+| Backend | FastAPI, SQLAlchemy, REST APIs, JWT auth |
+| Frontend | SwiftUI (macOS), HTML/CSS/JS |
+| Database | PostgreSQL, SQLite |
+| Cloud & DevOps | AWS (basics), Docker, GitHub Actions, Git |
+| Testing & Tooling | pytest, Postman |
+
+**GitHub Analytics**
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YSY42&show_icons=true&theme=transparent&cache_seconds=86400)](https://github.com/YSY42)
+
