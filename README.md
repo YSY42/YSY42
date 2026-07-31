@@ -1,19 +1,22 @@
 # Hi there, I'm Shuyu
-###Learning to build the systems I used to work around
+
+Building solutions across domains.
+
 <br>
 
-## About Me
+### About Me
 
 - 3 years in corporate ops (Risk & Assurance / Supply & Logistics / IT) @MMG Las Bambas, supporting controls and process enhancements
 - Building the technical foundation for that: OO software design, systems architecture, and data modelling at University of Galway
 - Currently building systems where risk logic and data transparency are core to the workflow
 
 <br>
+
 ---
 
 <br>
 
-## Tech Stack
+### Tech Stack
 
 | Category | Tools |
 |:---|:---|
@@ -23,9 +26,14 @@
 | Database | `PostgreSQL`, `SQLite` |
 | Cloud & DevOps | `AWS (basics)`, `Docker`, `GitHub Actions`, `Git` |
 | Testing & Tooling | `pytest`, `Postman` |
+
 <br>
 
 ---
+
 <br>
-## Contact Me
-Linkedin link
+
+### Contact Me
+
+**LinkedIn:** [linkedin.com/in/shuyu-yang](https://www.linkedin.com/in/shuyu-yang/)
+
