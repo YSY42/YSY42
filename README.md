@@ -6,7 +6,6 @@ Building solutions across domains.
 
 ---
 
-<br>
 
 ### About Me
 
@@ -18,7 +17,6 @@ Building solutions across domains.
 
 ---
 
-<br>
 
 ### Tech Stack
 
@@ -35,7 +33,6 @@ Building solutions across domains.
 
 ---
 
-<br>
 
 ### Contact Me
 
