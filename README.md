@@ -1,14 +1,18 @@
 # Hi there, I'm Shuyu
 
-## About Me
+### About Me
 
 - 3 years in corporate ops (Risk & Assurance / Supply & Logistics / IT) @MMG Las Bambas, supporting controls and process enhancements
 - Building the technical foundation for that: OO software design, systems architecture, and data modelling at University of Galway
 - Currently building systems where risk logic and data transparency are core to the workflow
 
+<br>
+
 ---
 
-## Tech Stack
+<br>
+
+### Tech Stack
 
 | Category | Tools |
 |:---|:---|
