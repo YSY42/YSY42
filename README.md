@@ -4,6 +4,10 @@ Building solutions across domains.
 
 <br>
 
+---
+
+<br>
+
 ### About Me
 
 - 3 years in corporate ops (Risk & Assurance / Supply & Logistics / IT) @MMG Las Bambas, supporting controls and process enhancements
