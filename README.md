@@ -1,6 +1,6 @@
 # Hi there, I'm Shuyu
 
-**+Building solutions across domains.**
+**- Building solutions across domains.**
 
 
 ---
