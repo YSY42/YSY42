@@ -12,7 +12,7 @@
 
 <br>
 
-### Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |:---|:---|
