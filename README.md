@@ -1,8 +1,7 @@
-## Hi there, I'm Shuyu
+# Hi there, I'm Shuyu
 <br>
----
 
-### About Me
+## About Me
 
 - 3 years in corporate ops (Risk & Assurance / Supply & Logistics / IT) @MMG Las Bambas, supporting controls and process enhancements
 - Building the technical foundation for that: OO software design, systems architecture, and data modelling at University of Galway
@@ -10,7 +9,6 @@
 
 <br>
 
----
 
 <br>
 
