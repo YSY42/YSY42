@@ -1,4 +1,5 @@
 # Hi there, I'm Shuyu
+###Learning to build the systems I used to work around
 <br>
 
 ## About Me
@@ -8,7 +9,7 @@
 - Currently building systems where risk logic and data transparency are core to the workflow
 
 <br>
-
+---
 
 <br>
 
@@ -22,3 +23,9 @@
 | Database | `PostgreSQL`, `SQLite` |
 | Cloud & DevOps | `AWS (basics)`, `Docker`, `GitHub Actions`, `Git` |
 | Testing & Tooling | `pytest`, `Postman` |
+<br>
+
+---
+<br>
+## Contact Me
+Linkedin link
