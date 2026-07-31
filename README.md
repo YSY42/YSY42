@@ -1,14 +1,15 @@
 # Hi there, I'm Yang
 
-**About me**
+## About Me
+
 - 3 years in corporate ops (Risk & Assurance / Supply & Logistics / IT) @MMG Las Bambas, supporting controls and process enhancements
 - Building the technical foundation for that: OO software design, systems architecture, and data modelling at University of Galway
 - Currently building systems where risk logic and data transparency are core to the workflow
 
-**Tech stack**
+## Tech Stack
 
 | Category | Tools |
-|---|---|
+|:---|:---|
 | Languages | Python, Java, Swift, JavaScript, TypeScript, SQL |
 | Backend | FastAPI, SQLAlchemy, REST APIs, JWT auth |
 | Frontend | SwiftUI (macOS), HTML/CSS/JS |
@@ -16,7 +17,10 @@
 | Cloud & DevOps | AWS (basics), Docker, GitHub Actions, Git |
 | Testing & Tooling | pytest, Postman |
 
-**GitHub Analytics**
+## GitHub Analytics
+
+<div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YSY42&show_icons=true&theme=transparent&cache_seconds=86400)](https://github.com/YSY42)
 
+</div>
