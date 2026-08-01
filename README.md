@@ -21,9 +21,9 @@
 
 | Category | Tools |
 |:---|:---|
-| Languages | `Python`, `Java`, `Swift`, `JavaScript`, `TypeScript`, `SQL` |
+| Languages | `Python`, `Java`, `Swift`, `TypeScript`, `SQL` |
 | Backend | `FastAPI`, `SQLAlchemy`, `REST APIs`, `JWT auth` |
-| Frontend | `SwiftUI (macOS)`, `HTML/CSS/JS` |
+| Frontend | `JavaScript`， `SwiftUI (macOS)`, `HTML/CSS/JS` |
 | Database | `PostgreSQL`, `SQLite` |
 | Cloud & DevOps | `AWS (basics)`, `Docker`, `GitHub Actions`, `Git` |
 | Testing & Tooling | `pytest`, `Postman` |
